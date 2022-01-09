@@ -1,0 +1,35 @@
+ID,Title,Author,Genre,SubGenre,Publisher,Type,Copies,Price,BestSeller
+1,All the President's Men,Bob Woodward,nonfiction,history,Random House,Book,18,5,TRUE
+2,The Outsider,Albert Camus,fiction,classic,Penguin,Book,4,7.25,FALSE
+3,Uncommon Wisdom,Fritjof Capra,nonfiction,anthology,Fontana,Audio/video,20,8.75,TRUE
+4,20000 Leagues Under the Sea,Jules Verne,fiction,novel,,reference book,18,11.1,FALSE
+5,The Moon is Down,John Steinbeck,fiction,classic,Penguin,Book,14,6.2,FALSE
+6,Crime and Punishment,Fyodor Dostoevsky,fiction,classic,Penguin,Book,5,4.13,FALSE
+7,Flashpoint,,fiction,comic,,reference book,3,12.04,TRUE
+8,The Argumentative Indian,Amartya Sen,nonfiction,history,Picador,Book,12,4.89,TRUE
+9,Men of Mathematics,E T Bell,science,mathematics,,magazines,4,5.95,FALSE
+10,The Drunkard's Walk,Leonard Mlodinow,science,mathematics,Penguin,Book,1,14.39,TRUE
+11,Journal of Economics vol 106 No 3,,science,economics,,reference book,10,13.2,FALSE
+12,Murphy's Law,,philosophy,psychology,,magazines,6,3.86,TRUE
+13,Structure and Randomness,Terence Tao,science,mathematics,,magazines,20,11.27,TRUE
+14,The Theory of Everything,Stephen Hawking,science,physics,Jaico,Audio/video,13,11.38,TRUE
+15,Bookless in Baghdad,Shashi Tharoor,nonfiction,history,Penguin,Book,13,12.39,FALSE
+16,Clash of Civilizations and Remaking of the World Order,Samuel Huntington,nonfiction,history,Simon&Schuster,Audio/video,20,14.29,TRUE
+17,Oxford book of Modern Science Writing,Richard Dawkins,science,science,,magazines,8,11.72,FALSE
+18,Data Scientists at Work,Gutierrez Sebastian,tech,data_science,Apress,Book,20,9.7,FALSE
+19,Orientalism,Edward Said,nonfiction,history,Penguin,Book,8,4.13,FALSE
+20,Let Us C,Yashwant Kanetkar,tech,computer_science,Prentice Hall,Book,16,13.93,FALSE
+21,Introduction to Algorithms,Thomas Cormen,tech,computer_science,MIT Press,Book,12,11.28,FALSE
+22,Superman Earth One - 2,,fiction,comic,,reference book,8,6.19,FALSE
+23,History of Western Philosophy,Bertrand Russell,philosophy,philosophy,Routledge,Audio/video,11,13.66,FALSE
+24,Empire of the Mughal - The Tainted Throne,Alex Rutherford,nonfiction,history,,reference book,10,13.66,FALSE
+25,Angels & Demons,Dan Brown,fiction,novel,,magazines,13,3,TRUE
+26,A Farewell to Arms,Ernest Hemingway,fiction,classic,Rupa,Book,18,10.78,TRUE
+27,Tales of Mystery and Imagination,Edgar Allen Poe,fiction,classic,HarperCollins,Book,2,8.35,FALSE
+28,More Tears to Cry,Jean Sassoon,fiction,novel,,magazines,6,3.7,TRUE
+29,On Education,Bertrand Russell,philosophy,education,Routledge,Book,10,9.78,TRUE
+30,The Attorney,,fiction,novel,,magazines,4,14.43,FALSE
+31,Tales of Beedle the Bard,J K Rowling,fiction,novel,,magazines,5,9.96,FALSE
+32,Talking Straight,Lee Iacoca,nonfiction,autobiography,,Audio/video,11,12.96,FALSE
+33,Hafasavnuk,L Deshpande,fiction,novel,,reference book,4,7.11,FALSE
+34,The Story of Philosophy,Will Durant,philosophy,history,Pocket,Book,18,4.3,FALSE
